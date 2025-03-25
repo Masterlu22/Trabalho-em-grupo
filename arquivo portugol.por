@@ -1,6 +1,5 @@
 programa {
   funcao inicio() {
- feature-subtracao
  
 real n1, n2
  real x 
@@ -16,7 +15,6 @@ z = n1 - n2
 escreva("O resultado da soma é: ", x)
 escreva("O resultado da subtração é: ", z)
 
- main
 
   }
 }
